@@ -4,12 +4,6 @@ Passionate about Building Real-World Product <br>
 Exploring **[Backend Development and DevOps]**<br>
 
 
-
-
-## 🛠️ Tech Stack  
-
----
-
 ### 💻 Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=FFD70&0=python" />
@@ -24,12 +18,13 @@ Exploring **[Backend Development and DevOps]**<br>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  <img src="https://img.shields.io/badge/Node.js-runtime-68A063?logo=node.js" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-FFCA28?logo=express&logoColor=black" />    <img src="https://img.shields.io/badge/FF6C37?logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white" />
-    <img src="https://img.shields.io/badge/FF6B6B?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-FFCA28?logo=express&logoColor=black" />    
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/FF6B6B?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/FF6C37?logo=nextdotjs&logoColor=white" />
 </p>
 
 ---
