@@ -12,9 +12,9 @@ Exploring **[Backend Development and DevOps]**<br>
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" />
-  <img src="https://img.shields.io/badge/C-Language-grey?logo=c" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=whitelogo=python" />
+  <img src="https://img.shields.io/badge/C-8B00FF?logo=c&logoColor=white=c" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=blackjavascript" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 </p>
 
