@@ -31,10 +31,9 @@
 ### 🧠 AI / ML & Generative AI  
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-GenerativeAI-2C3E50?logo=openai" />
-  <img src="https://img.shields.io/badge/HuggingFace-NLP-FFD54F?logo=huggingface" />
-  <img src="https://img.shields.io/badge/Transformers-NLP-E74C3C?logo=python" />
+  <img src="https://img.shields.io/badge/HuggingFace_NLP-FFD54F?logo=huggingface" />
+  <img src="https://img.shields.io/badge/Transformers_NLP-E74C3C?logo=python" />
   <img src="https://img.shields.io/badge/RAG-Search-27AE60?logo=elastic" />
-</p>
 
 
 
