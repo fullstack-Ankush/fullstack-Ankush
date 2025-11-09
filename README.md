@@ -29,6 +29,12 @@ Exploring **[Backend Development and DevOps]**<br>
   <img src="https://img.shields.io/badge/Keras-DeepLearning-D00000?logo=keras" />
   <img src="https://img.shields.io/badge/OpenCV-ComputerVision-5C3EE8?logo=opencv" />
   <img src="https://img.shields.io/badge/LangChain-RAG-9B59B6?logo=chainlink" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---
