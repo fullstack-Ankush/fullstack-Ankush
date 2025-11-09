@@ -1,7 +1,7 @@
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=FFD70&0=python" />
+  <img src="https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=yellow=python" />
   <img src="https://img.shields.io/badge/C-8B00FF?logo=c&logoColor=white=c" />
   <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=1c64e3" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
