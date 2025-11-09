@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Ankush Pal
-
-Passionate about Building Real-World Product <br>
-Exploring **[Backend Development and DevOps]**<br>
-
 
 ### 💻 Programming Languages  
 <p align="center">
@@ -17,7 +12,7 @@ Exploring **[Backend Development and DevOps]**<br>
 ### ⚙️ Frameworks & Libraries  
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  <img src="https://img.shields.io/badge/Node.js-runtime-68A063?logo=node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
