@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-FFCA28?logo=express&logoColor=black" />    
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-logo%26logoColor%26color?logo=nextdotjs&logoColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-logo%26logoColor%26color?logo=nextdotjs&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/postman-logo%26logoColor%26color?logo=postman&logoColor=white&color=orange">
 
 </p>
