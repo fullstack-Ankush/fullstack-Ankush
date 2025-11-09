@@ -11,8 +11,10 @@
 
 ### ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Framework-green?logo=fastapi" />
+  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  
+  <img src="https://img.shields.io/badge/FastApi-8A2B2%3Flogo%26logoColor?logo=fastapi&logoColor=white
+" />  
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
