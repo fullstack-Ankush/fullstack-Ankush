@@ -1,46 +1,24 @@
+<h1 align="center">Hi 👋, I'm Ankush Pal</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-### 💻 Programming Languages  
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-logo%26logoColor%26color?logo=python&logoColor=blue&color=f5ee0a">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-ankush&label=Profile%20views&color=0e75b6&style=flat" alt="fullstack-ankush" /> </p>
 
-  <img src="https://img.shields.io/badge/C-8B00FF?logo=c&logoColor=white=c" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=1c64e3" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<p align="left"> <a href="https://twitter.com/code_ankush" target="blank"><img src="https://img.shields.io/twitter/follow/code_ankush?logo=twitter&style=for-the-badge" alt="code_ankush" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [ankushx.me](ankushx.me)
+
+- 📫 How to reach me **palankush702@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/code_ankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_ankush" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### ⚙️ Frameworks & Libraries  
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  
-  <img alt="Static Badge" src="https://img.shields.io/badge/FastApi-8A2B2%3Flogo%26logoColor?logo=fastapi&logoColor=white">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstack-ankush&show_icons=true&locale=en&layout=compact" alt="fullstack-ankush" /></p>
 
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-FFCA28?logo=express&logoColor=black" />    
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-logo%26logoColor%26color?logo=nextdotjs&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/postman-logo%26logoColor%26color?logo=postman&logoColor=white&color=orange">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstack-ankush&show_icons=true&locale=en" alt="fullstack-ankush" /></p>
 
-</p>
-
----
-
-### 🧠 AI / ML & Generative AI  
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-FFD54F?logo=huggingface" />
-  <img src="https://img.shields.io/badge/HuggingFace_NLP-FFD54F?logo=huggingface" />
-  <img src="https://img.shields.io/badge/Transformers_NLP-E74C3C?logo=python" />
-  <img src="https://img.shields.io/badge/RAG-E74C3C?logo=python" />
-
-
-
-
-
-## 📌 Featured Projects  
-
-🔹 [**Quickonnect**](https://github.com/fullstack-Ankush/QuickConnect-Hackathon) – A platform where user share their task
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstack-ankush&" alt="fullstack-ankush" /></p>
