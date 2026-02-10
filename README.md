@@ -2,7 +2,7 @@
 
 ### A backend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-Ankush&label=Profile views&color=0e75b6&style=flat" alt="fullstack-Ankush" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-Ankush&label=Profile views&color=0e75b6&style=flat" alt="fullstack-Ankush" /> </p> -->
 
 - 🌱 I'm currently learning **C/C++  DSA**
 
