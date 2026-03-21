@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **palankush702@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://ankushx.me](https://ankushx.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
