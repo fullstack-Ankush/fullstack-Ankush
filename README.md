@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fullstack-Ankush&label=Profile views&color=0e75b6&style=flat" alt="fullstack-Ankush" /> </p> -->
 
-- 🌱 I'm currently learning **C/C++  DSA**
+- 🌱 I'm currently learning **Python and  DSA in python **
 
 - 📫 How to reach me **palankush702@gmail.com**
 
